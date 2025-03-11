@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --color-backgroundGradientStart: #fde2e4;
+  --color-backgroundGradientEnd: #dbeafe;
+  --color-primaryFont: #374151;
+  --color-secondaryFont: #6b7280;
+  --color-accent: #fca5a5;
+  --color-highlight: #93c5fd;
+}
